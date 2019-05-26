@@ -1,0 +1,8 @@
+https://github.com/scikit-learn-contrib/imbalanced-learn
+https://github.com/dialnd/imbalanced-algorithms#id14
+https://github.com/albermax/innvestigate#more-documentation
+https://github.com/scikit-learn-contrib/categorical-encoding
+https://skymind.ai/wiki/python-ai
+https://github.com/OpenMined/PySyft
+https://github.com/rigetti/pennylane-forest
+https://github.com/rigetti/quantumflow
